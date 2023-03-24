@@ -1,12 +1,8 @@
 #EXTM3U
-
-
-
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://bolavip.com/__export/1580751109215/sites/bolavip/img/2020/02/03/win_crop1580751108551.png_267849830.png",DEP | WIN SPORTS PLUS FHD
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1417
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://bolavip.com/__export/1580751109215/sites/bolavip/img/2020/02/03/win_crop1580751108551.png_267849830.png",DEP | WIN SPORTS PLUS HD
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1418
+#EXTINF:-1 group-title="Deporte Colombia ⚽" tvg-logo="http://streamgo.vip:8008/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png",LAT | WIN SPORTS + SD
+http://streamgo.vip:8008/kassandra/kassandra/149898
+#EXTINF:-1 group-title="Deporte Colombia ⚽" tvg-logo="http://streamgo.vip:8008/images/0d56f2f5a6609911ef0ca69a85ca7407.png",CO | WIN SPORTS + HD
+http://streamgo.vip:8008/kassandra/kassandra/149901
 #EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png",WIN SPORT PLUS HD  (EXCLUSIVO)
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37930
 #EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png",Win Sports + FHD
@@ -23,10 +19,6 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37936
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37937
 #EXTINF:-1 group-title="⚡️FUTBOL-COLOMBIA⚡️" tvg-logo="https://sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png",⚽WinSports Plus
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37943
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Win_Sport_logo.png",DEP | WIN SPORTS
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1415
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Win_Sport_logo.png",DEP | WIN SPORTS FHD
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1416
 #EXTINF:-1 group-title="⚡️FUTBOL-COLOMBIA⚡️" tvg-logo="https://i.ibb.co/M1BBy5N/win.png",⚽Win Sports + SD
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37933
 #EXTINF:-1 group-title="⚡️FUTBOL-COLOMBIA⚡️" tvg-logo="https://i.ibb.co/M1BBy5N/win.png",⚽Win Sports SD
@@ -39,8 +31,6 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37942
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37944
 #EXTINF:-1 group-title="⚽ COLOMBIA" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",DEPORTE:WIN SPORTS + HD
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34691
-#EXTINF:-1 group-title="⚽COLOMBIA" tvg-logo="https://i.postimg.cc/rm6MWrWx/Win-Sports-M-s2022.png",WINSPORTS + PLUS SD
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/448341
 #EXTINF:-1 group-title="⚽COLOMBIA" tvg-logo="https://i.postimg.cc/rm6MWrWx/Win-Sports-M-s2022.png",WIN SPORTS PLUS HD
 http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/448344
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png",Win Sports SD (CO)
@@ -67,3 +57,6 @@ http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462414
 http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462416
 #EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",M Liga de Campeones 8 HD (SOLO EVENTOS)
 http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462418
+
+
+
