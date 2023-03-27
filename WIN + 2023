@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Deporte Colombia ⚽" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",LAT | WIN SPORTS + SD
-http://estoestv.com:2086/live/ESTOESTV/ESTABLE/593074.ts
 #EXTINF:-1 group-title="Deporte Colombia ⚽" tvg-logo="http://streamgo.vip:8008/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png",LAT | WIN SPORTS + SD
 http://streamgo.vip:8008/kassandra/kassandra/149898
 #EXTINF:-1 group-title="Deporte Colombia ⚽" tvg-logo="http://streamgo.vip:8008/images/0d56f2f5a6609911ef0ca69a85ca7407.png",CO | WIN SPORTS + HD
@@ -39,12 +37,8 @@ http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/448344
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34689
 #EXTINF:-1 group-title="⚽⚾- COLOMBIA" tvg-logo="http://dns.k4livetv.com:8080/images/5bd3bc16fe53a72def58a2ebd43dcda1.png",CO04: Win Sports HD
 http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/408664
-#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",LA LIGA TV BAR HD
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462403
 #EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",DEPORTES| LA LIGA TV BAR FHD
 http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462405
-#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",ESPAÑA| MOVISTAR LA LIGA FHD
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462406
 #EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",MOVISTAR LA LIGA | DEP_ESP
 http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462407
 #EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",M LaLiga 3 HD (VIP)
