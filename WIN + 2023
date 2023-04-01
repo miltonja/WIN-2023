@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Deporte Colombia ⚽" tvg-logo="http://streamgo.vip:8008/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png",LAT | WIN SPORTS + SD
-http://streamgo.vip:8008/kassandra/kassandra/149898
-#EXTINF:-1 group-title="Deporte Colombia ⚽" tvg-logo="http://streamgo.vip:8008/images/0d56f2f5a6609911ef0ca69a85ca7407.png",CO | WIN SPORTS + HD
-http://streamgo.vip:8008/kassandra/kassandra/149901
 #EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png",WIN SPORT PLUS HD  (EXCLUSIVO)
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37930
 #EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png",Win Sports + FHD
