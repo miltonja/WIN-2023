@@ -1,22 +1,24 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚡️FUTBOL-COLOMBIA⚡️" tvg-logo="https://i.postimg.cc/c4vFbMqQ/WIN-SPORTS-BOTON-AZUL-CELESTE.png",COL: WIN SPORT+*
-http://elmonkey.us:25461/santana/1234/267
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾ CO | Win + ABRIL 16
+http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQmyDkSeZjGs855qaPaB8x7I
 #EXTINF:-1 group-title="⚡️FUTBOL-COLOMBIA⚡️" tvg-logo="https://i.postimg.cc/c4vFbMqQ/WIN-SPORTS-BOTON-AZUL-CELESTE.png",COL: WIN SPORT+*
 http://streamingprotv.com:8000/Milan02/Milan02/135040
 #EXTINF:-1 group-title="⚽ COLOMBIA" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",DEPORTE:WIN SPORTS + HD
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34691
 #EXTINF:-1 group-title="⚽COLOMBIA" tvg-logo="https://i.postimg.cc/rm6MWrWx/Win-Sports-M-s2022.png",WIN SPORTS PLUS HD
 http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/448344
-#EXTINF:-1 group-title="⚡️FUTBOL-COLOMBIA⚡️" tvg-logo="https://i.postimg.cc/c4vFbMqQ/WIN-SPORTS-BOTON-AZUL-CELESTE.png",COL: WIN SPORT+*
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/16723
-#EXTINF:-1 group-title="⚡️FUTBOL-COLOMBIA⚡️" tvg-logo="https://i.postimg.cc/c4vFbMqQ/WIN-SPORTS-BOTON-AZUL-CELESTE.png",COL: WIN SPORT+*
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/16724
 #EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",Win Sports SD
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34689
+#EXTINF:-1 group-title="⚽⚾- COLOMBIA" tvg-logo="http://dns.k4livetv.com:8080/images/5bd3bc16fe53a72def58a2ebd43dcda1.png",CO04: Win Sports HD
+http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQhfAzVJEABoci7ZuxV_Bccc
 #EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",WinSports Plus HD
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34690
-#EXTINF:-1 group-title="⚽⚾- COLOMBIA" tvg-logo="http://dns.k4livetv.com:8080/images/5bd3bc16fe53a72def58a2ebd43dcda1.png",CO04: Win Sports HD
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/408664
+#EXTINF:-1 group-title="⚽⚾- DEPORTES"tvg-logo="https://i.postimg.cc/KzryTj65/MAT-1-VERDE.png",MAT4! TV
+http://s@bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="⚽⚾- DEPORTES"tvg-logo="https://i.postimg.cc/DZg1sGcy/MAT-2-VERDE.png",MAT4! TV
+http://s@50.7.89.130:8080/t2czx3/video.m3u8?token=ZKF89T31BF
+#EXTINF:-1 group-title="⚽⚾- DEPORTES"tvg-logo="https://i.postimg.cc/q72sJShK/MATH2.png,",MAT4! TV HD
+http://s@bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",DEPORTES| LA LIGA TV BAR FHD
 http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462405
 #EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",MOVISTAR LA LIGA | DEP_ESP
@@ -27,8 +29,6 @@ http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462410
 http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462411
 #EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",M Liga de Campeones 2 HD (VIP)
 http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462412
-#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",M Liga de Campeones 4 HD (VIP)
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462414
 #EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",M Liga de Campeones 6 HD (SOLO EVENTOS)
 http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462416
 #EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",M Liga de Campeones 8 HD (SOLO EVENTOS)
