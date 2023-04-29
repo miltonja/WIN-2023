@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png",➾ CO | Win + EL MONKEY ABRIL 28
+http://elmonkey.us:25461/Gisela1/Gisela1/349
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png",➾ CO | Win + EL MONKEY ABRIL 28
+http://elmonkey.us:25461/Gisela1/Gisela1/267
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png",➾ CO | Win + ABRIL 27
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34691
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾ CO | Win + ABRIL 16
@@ -7,31 +11,45 @@ http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQmyDkSeZjGs855qaPaB8x7I
 http://streamingprotv.com:8000/Milan02/Milan02/135040
 #EXTINF:-1 group-title="⚽ COLOMBIA" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",DEPORTE:WIN SPORTS + HD
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34691
-#EXTINF:-1 group-title="⚽COLOMBIA" tvg-logo="https://i.postimg.cc/rm6MWrWx/Win-Sports-M-s2022.png",WIN SPORTS PLUS HD
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/448344
 #EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",Win Sports SD
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34689
 #EXTINF:-1 group-title="⚽⚾- COLOMBIA" tvg-logo="http://dns.k4livetv.com:8080/images/5bd3bc16fe53a72def58a2ebd43dcda1.png",CO04: Win Sports HD
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQhfAzVJEABoci7ZuxV_Bccc
 #EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",WinSports Plus HD
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34690
-#EXTINF:-1,ESPN (interlink)
+#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="",ESPN (interlink)
 http://51.222.139.68:8000/play/a00b/index.m3u8
-#EXTINF:-1,ESPN CO (interlink)
+#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="",ESPN CO (interlink)
 http://51.222.139.68:8000/play/a009/index.m3u8
-#EXTINF:-1,FOX SPORT PREMIUM (server2)
+#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="",FOX SPORT PREMIUM (server2)
 http://51.222.139.68:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",DEPORTES| LA LIGA TV BAR FHD
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462405
-#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",MOVISTAR LA LIGA | DEP_ESP
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462407
-#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",M LaLiga 3 HD (VIP)
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462410
-#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",M Liga de Campeones 1 HD (VIP)
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462411
-#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",M Liga de Campeones 2 HD (VIP)
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462412
-#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",M Liga de Campeones 6 HD (SOLO EVENTOS)
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462416
-#EXTINF:-1 group-title="⚽ - LA LIGA ESPAÑOLA" tvg-logo="https://i.postimg.cc/SNF1hKrj/Movistar-LA-LIGA-svg.png",M Liga de Campeones 8 HD (SOLO EVENTOS)
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/462418
+#EXTINF:-1 ,DIREC TV
+http://177.93.60.43:5800/play/a0h1/index.m3u8
+#EXTINF:-1 ,DIRECTV SPORT PLUS
+http://177.93.60.43:5800/play/a0h4/index.m3u8
+#EXTINF:-1 ,DIRECTV SPORTS 1
+http://177.93.60.43:5800/play/a0h2/index.m3u8
+#EXTINF:-1 ,DIRECTV SPORTS 2
+http://177.93.60.43:5800/play/a0h3/index.m3u8
+#EXTINF:-1 ,ESPN 4 SD
+http://177.93.60.43:5800/play/a0br/index.m3u8
+#EXTINF:-1 ,ESPN CO SD
+http://177.93.60.43:5800/play/a0bq/index.m3u8
+#EXTINF:-1 ,ESPN HD
+http://177.93.60.43:5800/play/a0e9/index.m3u8
+#EXTINF:-1 ,FOX Sports 2 HD
+http://177.93.60.43:5800/play/a0e1/index.m3u8
+#EXTINF:-1 ,ESPN 2 HD
+http://177.128.115.10:8000/play/a07g
+#EXTINF:-1 ,ESPN 3 HD
+http://177.128.115.10:8000/play/a081
+#EXTINF:-1 ,ESPN 4 HD
+http://177.128.115.10:8000/play/a08i
+#EXTINF:-1 ,ESPN Extra HD
+http://177.128.115.10:8000/play/a08v
+#EXTINF:-1 ,ESPN HD
+http://177.128.115.10:8000/play/a07l
+#EXTINF:-1 ,Fox Sports 1 HD
+http://177.128.115.10:8000/play/a09h
+#EXTINF:-1 ,Fox Sports 3 HD
+http://177.128.115.10:8000/play/a082
