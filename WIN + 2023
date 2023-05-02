@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png",➾ CO | Win + EL MONKEY ABRIL 28
+
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/c4pdXcNR/WIN-SPORTS-VU.png",➾ CO | Win + EL MONKEY ABRIL 28
 http://elmonkey.us:25461/Gisela1/Gisela1/349
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png",➾ CO | Win + EL MONKEY ABRIL 28
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/52HWdQfx/WIN-SPORTS-VU-TV.png",➾ CO | Win + EL MONKEY ABRIL 28
 http://elmonkey.us:25461/Gisela1/Gisela1/267
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png",➾ CO | Win + ABRIL 27
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34691
