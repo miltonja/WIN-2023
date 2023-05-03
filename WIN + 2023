@@ -13,29 +13,29 @@ http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34689
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQhfAzVJEABoci7ZuxV_Bccc
 #EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",WinSports Plus HD
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34690
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/k5DBCKQ5/directv-vu.png",DIREC TV
+#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/cJJdK0RM/DIRECTV-VU.png",DIREC TV
 http://177.93.60.43:5800/play/a0h1/index.m3u8
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/gcB4PFfy/DIRECTV-SPORTS.png",DIRECTV SPORTS 2
+#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/cJJdK0RM/DIRECTV-VU.png",DIRECTV SPORTS 2
 http://177.93.60.43:5800/play/a0h3/index.m3u8
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/3w7yd1yr/ESPN-4.png",ESPN 4 SD
+#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/kXMWwhd1/ESPN-VU-TV.png",ESPN 4 SD
 http://177.93.60.43:5800/play/a0br/index.m3u8
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/BQ6GpKFS/ESPN-VU.png",ESPN CO SD
+#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/4y38V44Z/ESPN-VU-TV.png",ESPN CO SD
 http://177.93.60.43:5800/play/a0bq/index.m3u8
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/BQ6GpKFS/ESPN-VU.png",ESPN HD
+#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/4y38V44Z/ESPN-VU-TV.png",ESPN HD
 http://177.93.60.43:5800/play/a0e9/index.m3u8
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",FOX Sports 2 HD
+#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/tgJW3BL0/FOX-SPORTS-1-VU-TV.png",FOX Sports 2 HD
 http://177.93.60.43:5800/play/a0e1/index.m3u8
 #EXTINF:-1 group-title="⚽⚾-DEPORTES" tvg-logo="",ESPN 2 HD
 http://177.128.115.10:8000/play/a07g
 #EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",ESPN 3 HD
 http://177.128.115.10:8000/play/a081
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/3w7yd1yr/ESPN-4.png",ESPN 4 HD
+#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/kXMWwhd1/ESPN-VU-TV.png",ESPN 4 HD
 http://177.128.115.10:8000/play/a08i
 #EXTINF:-1 group-title="⚽⚾-DEPORTES" tvg-logo="https://i.postimg.cc/fbfhRjXN/ESPN-EXTRA-VU.png",ESPN Extra HD
 http://177.128.115.10:8000/play/a08v
 #EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/BQ6GpKFS/ESPN-VU.png",ESPN HD
 http://177.128.115.10:8000/play/a07l
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",Fox Sports 1 HD
+#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/tgJW3BL0/FOX-SPORTS-1-VU-TV.png",Fox Sports 1 HD
 http://177.128.115.10:8000/play/a09h
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",Fox Sports 3 HD
+#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/tgJW3BL0/FOX-SPORTS-1-VU-TV.png",Fox Sports 3 HD
 http://177.128.115.10:8000/play/a082
