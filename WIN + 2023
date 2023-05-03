@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/65JHrbC4/WIN-ROJO-VU-TV.png",➾ CO | Win + EL MONKEY ABRIL 28
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/Gt90w1Wq/WIN-SPORTS-VU-TV.png",➾ CO | Win + EL MONKEY ABRIL 28
 http://elmonkey.us:25461/Gisela1/Gisela1/349
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/65JHrbC4/WIN-ROJO-VU-TV.png",➾ CO | Win + EL MONKEY ABRIL 28
 http://elmonkey.us:25461/Gisela1/Gisela1/267
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png",➾ CO | Win + ABRIL 27
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34691
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾ CO | Win + ABRIL 16
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/mg6KCr5j/WIN-SPORTS-AMARILLO-VU-TV.png",➾ CO | Win + ABRIL 16
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQmyDkSeZjGs855qaPaB8x7I
-#EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",Win Sports SD
+#EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/mg6KCr5j/WIN-SPORTS-AMARILLO-VU-TV.png",Win Sports SD
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34689
-#EXTINF:-1 group-title="⚽⚾- COLOMBIA" tvg-logo="http://dns.k4livetv.com:8080/images/5bd3bc16fe53a72def58a2ebd43dcda1.png",CO04: Win Sports HD
+#EXTINF:-1 group-title="⚽⚾- COLOMBIA" tvg-logo="https://i.postimg.cc/W10mGNSr/WIN-SPORTS-VERDE-VU-TV.png",CO04: Win Sports HD
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQhfAzVJEABoci7ZuxV_Bccc
-#EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",WinSports Plus HD
+#EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/1zycRxPQ/WIN-SPORTS-AZUL-CELESTEVU-TV.png",WinSports Plus HD
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34690
 #EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/cJJdK0RM/DIRECTV-VU.png",DIREC TV
 http://177.93.60.43:5800/play/a0h1/index.m3u8
