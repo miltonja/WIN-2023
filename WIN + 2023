@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",➾COL| WIN SPORTS + HD
+http://playhispano.org:8080/Viejo1/hPaUPsnrIX/86344
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",➾COL| WIN SPORTS PLUS FHD**
+http://playhispano.org:8080/Viejo1/hPaUPsnrIX/86345
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",➾COL| WIN SPORTS PLUS FHD** (EXCLUSIVO)
+http://playhispano.org:8080/Viejo1/hPaUPsnrIX/86346
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",➾WIN SPORTS PLUS HD
+http://playhispano.org:8080/Viejo1/hPaUPsnrIX/93044
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾WIN SPORTS PLUS SD OP2
+http://playhispano.org:8080/Viejo1/hPaUPsnrIX/93045
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾WIN SPORTS + PLUS SD
+http://playhispano.org:8080/Viejo1/hPaUPsnrIX/93046
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",Win Sports
+http://playhispano.org:8080/Viejo1/hPaUPsnrIX/93047
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",DEPORTES LAT | WIN SPORTS(A)
+http://playhispano.org:8080/Viejo1/hPaUPsnrIX/125758
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",DEPORTES LAT | WIN SPORTS OP 2
+http://playhispano.org:8080/Viejo1/hPaUPsnrIX/125759
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",LIGA COLOMBIA: WIN SPORTS + (OPC 1)
+http://playhispano.org:8080/Viejo1/hPaUPsnrIX/129699
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",LIGA COLOMBIA: WIN SPORTS + (OPC 2)
+http://playhispano.org:8080/Viejo1/hPaUPsnrIX/129700
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",SD_LAT: WIN SPORTS
+http://playhispano.org:8080/Viejo1/hPaUPsnrIX/131168
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO | Win + MAYO 16
 http://hplay.xyz:80/zhiwodlc/6u01I0nvBj/34689
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO | Win + MAYO 16
@@ -9,8 +33,6 @@ http://hplay.xyz:80/zhiwodlc/6u01I0nvBj/34691
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQmyDkSeZjGs855qaPaB8x7I
 #EXTINF:-1 group-title="⚽⚾- COLOMBIA" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",CO04: Win Sports HD
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQhfAzVJEABoci7ZuxV_Bccc
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾ CO | Win + MAYO 16 SOLO IMAGEN
-http://k4livetv.com:8080/Kari/Kari/448344
 #EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/3w7yd1yr/ESPN-4.png",ESPN 4 SD
 http://177.93.60.43:5800/play/a0br/index.m3u8
 #EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/BQ6GpKFS/ESPN-VU.png",ESPN CO SD
