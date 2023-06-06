@@ -75,3 +75,29 @@ http://177.128.115.10:8000/play/a07l
 http://177.128.115.10:8000/play/a09h
 #EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",Fox Sports 3 HD
 http://177.128.115.10:8000/play/a082
+#EXTINF:-1 ,ESPN 2
+http://181.78.1.158:8000/play/a01v/index.m3u8
+#EXTINF:-1 ,ESPN 4
+http://181.78.1.158:8000/play/a01h/index.m3u8
+#EXTINF:-1 ,ESPN HD
+http://181.78.1.158:8000/play/a01u/index.m3u8
+#EXTINF:-1 ,ESPN 2
+http://181.63.102.144:12000/play/a0gj/index.m3u8
+#EXTINF:-1 ,ESPN
+http://181.63.102.144:12000/play/a0gk/index.m3u8
+#EXTINF:-1 ,ESPN 2 HD_CENTRAL
+http://181.63.102.144:12000/play/a0kj/index.m3u8
+#EXTINF:-1 ,ESPN 2 Latin
+http://181.63.102.144:12000/play/a0gj/index.m3u8
+#EXTINF:-1 ,ESPN 3
+http://181.63.102.144:12000/play/a0hx/index.m3u8
+#EXTINF:-1 ,ESPN 3 HD_CENTRAL
+http://181.63.102.144:12000/play/a0ki/index.m3u8
+#EXTINF:-1 ,ESPN 4
+http://181.63.102.144:12000/play/a0gi/index.m3u8
+#EXTINF:-1 ,ESPN 4 HD
+http://181.63.102.144:12000/play/a0jk/index.m3u8
+#EXTINF:-1 ,ESPN CO
+http://181.63.102.144:12000/play/a0h8/index.m3u8
+#EXTINF:-1 ,ESPN HD_CENTRAL
+http://181.63.102.144:12000/play/a0kh/index.m3u8
