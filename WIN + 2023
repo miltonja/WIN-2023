@@ -1,34 +1,34 @@
 #EXTM3U
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾COL| WIN SPORTS + HD JUNIO 05
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/294455
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",➾COL| WIN SPORTS + HD
-http://playhispano.org:8080/Viejo1/hPaUPsnrIX/86344
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",➾COL| WIN SPORTS PLUS FHD**
-http://playhispano.org:8080/Viejo1/hPaUPsnrIX/86345
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",➾COL| WIN SPORTS PLUS FHD** (EXCLUSIVO)
-http://playhispano.org:8080/Viejo1/hPaUPsnrIX/86346
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾WIN SPORTS PLUS SD OP2
-http://playhispano.org:8080/Viejo1/hPaUPsnrIX/93045
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾WIN SPORTS + PLUS SD
-http://playhispano.org:8080/Viejo1/hPaUPsnrIX/93046
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",Win Sports
-http://playhispano.org:8080/Viejo1/hPaUPsnrIX/93047
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",DEPORTES LAT | WIN SPORTS(A)
-http://playhispano.org:8080/Viejo1/hPaUPsnrIX/125758
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",DEPORTES LAT | WIN SPORTS OP 2
-http://playhispano.org:8080/Viejo1/hPaUPsnrIX/125759
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",LIGA COLOMBIA: WIN SPORTS + (OPC 1)
-http://playhispano.org:8080/Viejo1/hPaUPsnrIX/129699
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",LIGA COLOMBIA: WIN SPORTS + (OPC 2)
-http://playhispano.org:8080/Viejo1/hPaUPsnrIX/129700
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",SD_LAT: WIN SPORTS
-http://playhispano.org:8080/Viejo1/hPaUPsnrIX/131168
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO | Win + MAYO 16
 http://hplay.xyz:80/zhiwodlc/6u01I0nvBj/34690
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾ CO | Win + MAYO 16
 http://hplay.xyz:80/zhiwodlc/6u01I0nvBj/34691
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾ CO | Win + ABRIL 16
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQmyDkSeZjGs855qaPaB8x7I
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",➾COL| WIN SPORTS + HD
+http://playhispano.org:8080/userlw/led5120/86344
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",➾COL| WIN SPORTS PLUS FHD**
+http://playhispano.org:8080/userlw/led5120/86345
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",➾COL| WIN SPORTS PLUS FHD** (EXCLUSIVO)
+http://playhispano.org:8080/userlw/led5120/86346
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾WIN SPORTS PLUS SD OP2
+http://playhispano.org:8080/userlw/led5120/93046
+#EXTINF:-1 group-title="PPV | FUTBOL COLOMBIANO" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",DEPORTES LAT | WIN SPORTS OP 2
+http://playhispano.org:8080/userlw/led5120/125759
+#EXTINF:-1 group-title="PPV | FUTBOL COLOMBIANO" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",LIGA COLOMBIA: WIN SPORTS + (OPC 1)
+http://playhispano.org:8080/userlw/led5120/129699
+#EXTINF:-1 group-title="PPV | FUTBOL COLOMBIANO" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",LIGA COLOMBIA: WIN SPORTS + (OPC 2)
+http://playhispano.org:8080/userlw/led5120/129700
+#EXTINF:-1 group-title="PPV | FUTBOL COLOMBIANO" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",SD_LAT: WIN SPORTS
+http://playhispano.org:8080/userlw/led5120/131168
+#EXTINF:-1 group-title="PPV | FUTBOL COLOMBIANO" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",WIN SPORTS + (ENCODER A)
+http://playhispano.org:8080/userlw/led5120/142272
+#EXTINF:-1 group-title="PPV | FUTBOL COLOMBIANO" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",LIGA BETPLAY PARTIDOS DEL DIA
+http://playhispano.org:8080/userlw/led5120/171876
+#EXTINF:-1 group-title="PPV | FUTBOL COLOMBIANO" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",WIN SPORTS + FULL HD (ENCODER)
+http://playhispano.org:8080/userlw/led5120/190193
 #EXTINF:-1 group-title="⚽⚾- COLOMBIA" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",CO04: Win Sports HD
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQhfAzVJEABoci7ZuxV_Bccc
 #EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/3w7yd1yr/ESPN-4.png",ESPN 4 SD
@@ -37,58 +37,14 @@ http://177.93.60.43:5800/play/a0br/index.m3u8
 http://177.93.60.43:5800/play/a0bq/index.m3u8
 #EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/BQ6GpKFS/ESPN-VU.png",ESPN HD
 http://177.93.60.43:5800/play/a0e9/index.m3u8
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",FOX Sports 2 HD
+#EXTINF:-1 group-title="⚽⚾- DEPORTES",FOX Sports 2 HD
 http://177.93.60.43:5800/play/a0e1/index.m3u8
-#EXTINF:-1 group-title="⚽⚾-DEPORTES" tvg-logo="",ESPN 2 HD
-http://177.128.115.10:8000/play/a07g
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",ESPN 3 HD
-http://177.128.115.10:8000/play/a081
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/3w7yd1yr/ESPN-4.png",ESPN 4 HD
-http://177.128.115.10:8000/play/a08i
-#EXTINF:-1 group-title="⚽⚾-DEPORTES" tvg-logo="https://i.postimg.cc/fbfhRjXN/ESPN-EXTRA-VU.png",ESPN Extra HD
-http://177.128.115.10:8000/play/a08v
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/BQ6GpKFS/ESPN-VU.png",ESPN HD
-http://177.128.115.10:8000/play/a07l
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",Fox Sports 1 HD
-http://177.128.115.10:8000/play/a09h
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",Fox Sports 3 HD
-http://177.128.115.10:8000/play/a082
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/3w7yd1yr/ESPN-4.png",ESPN 4 SD
-http://177.93.60.43:5800/play/a0br/index.m3u8
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/BQ6GpKFS/ESPN-VU.png",ESPN CO SD
-http://177.93.60.43:5800/play/a0bq/index.m3u8
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/BQ6GpKFS/ESPN-VU.png",ESPN HD
-http://177.93.60.43:5800/play/a0e9/index.m3u8
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",FOX Sports 2 HD
-http://177.93.60.43:5800/play/a0e1/index.m3u8
-#EXTINF:-1 group-title="⚽⚾-DEPORTES" tvg-logo="",ESPN 2 HD
-http://177.128.115.10:8000/play/a07g
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",ESPN 3 HD
-http://177.128.115.10:8000/play/a081
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/3w7yd1yr/ESPN-4.png",ESPN 4 HD
-http://177.128.115.10:8000/play/a08i
-#EXTINF:-1 group-title="⚽⚾-DEPORTES" tvg-logo="https://i.postimg.cc/fbfhRjXN/ESPN-EXTRA-VU.png",ESPN Extra HD
-http://177.128.115.10:8000/play/a08v
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="https://i.postimg.cc/BQ6GpKFS/ESPN-VU.png",ESPN HD
-http://177.128.115.10:8000/play/a07l
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",Fox Sports 1 HD
-http://177.128.115.10:8000/play/a09h
-#EXTINF:-1 group-title="⚽⚾- DEPORTES" tvg-logo="",Fox Sports 3 HD
-http://177.128.115.10:8000/play/a082
-#EXTINF:-1 ,ESPN 2
-http://181.78.1.158:8000/play/a01v/index.m3u8
-#EXTINF:-1 ,ESPN 4
-http://181.78.1.158:8000/play/a01h/index.m3u8
-#EXTINF:-1 ,ESPN HD
-http://181.78.1.158:8000/play/a01u/index.m3u8
 #EXTINF:-1 ,ESPN 2
 http://181.63.102.144:12000/play/a0gj/index.m3u8
 #EXTINF:-1 ,ESPN
 http://181.63.102.144:12000/play/a0gk/index.m3u8
 #EXTINF:-1 ,ESPN 2 HD_CENTRAL
 http://181.63.102.144:12000/play/a0kj/index.m3u8
-#EXTINF:-1 ,ESPN 2 Latin
-http://181.63.102.144:12000/play/a0gj/index.m3u8
 #EXTINF:-1 ,ESPN 3
 http://181.63.102.144:12000/play/a0hx/index.m3u8
 #EXTINF:-1 ,ESPN 3 HD_CENTRAL
