@@ -19,8 +19,6 @@ http://45.172.218.126:8000/play/a00f/index.m3u8
 http://45.172.218.126:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="|CO| Colombia",➾ CO | Win +  JUNIO 30
 http://181.205.130.194:4000/play/a0ay/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 16 PURPLE IPTV
-http://181.224.161.138:1010/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/rm6MWrWx/Win-Sports-M-s2022.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL-20  Nro-2
 http://201.222.44.220:4227/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win Sports + ABRIL 20
