@@ -39,6 +39,9 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/NfB0CLVb/PLUTO-TV-BEINSPORTS-EXTRA.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id=" FIFA+"tvg-name="⚽| FIFA+"tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_
+20230926T032319SQUARE.png_20230926032320.png"group-title="⚽DEPORTES⚽",⚽| FIFA + HD
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 #EXTINF:-1 tvg-id="TNT SPORTS 1"tvg-name="⚽|TNT SPORTS 1"tvg-logo="https://i.postimg.cc/QNzkPhwS/TNT-SPORTS1.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 1 BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="TNT SPORTS 2"tvg-name="⚽|TNT SPORTS 2"tvg-logo="https://i.postimg.cc/Vv2qbWn2/TNT-SPORTS.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 2 BRASIL
