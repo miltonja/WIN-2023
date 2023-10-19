@@ -19,30 +19,48 @@ http://181.129.198.235:8000/play/a023/index.m3u8
 http://181.205.130.194:4000/play/a0ay/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/Y0N8G4Ym/WIN-PLUS-VU-TV-PLAYER.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
 http://181.204.79.182:8202/play/a04m
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/rp87yjkL/WIN_PLUS_AZUL_CELESTE-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
 http://161.132.194.88:7076/play/a0t0/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/rp87yjkL/WIN_PLUS_AZUL_CELESTE-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
 http://177.234.242.209:50032/play/a0hf/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/rp87yjkL/WIN_PLUS_AZUL_CELESTE-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
 http://177.234.247.66:8888/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/rp87yjkL/WIN_PLUS_AZUL_CELESTE-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
 http://179.1.87.75:8098/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-FEB- 25
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/kgNkdZLc/WIN__PLUS_ROJO-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-FEB- 25
 http://190.26.217.123:8000/play/a14u/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-ABRIL-28
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/kgNkdZLc/WIN__PLUS_ROJO-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-ABRIL-28
 http://179.1.87.75:8098/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="|CO| Colombia",➾ CO | Win +  JUlIO 16
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/R0XyWtSJ/WIN_PLUS_AMARILLO-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win +  JUlIO 16
 http://45.172.218.126:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="|CO| Colombia",➾ CO | Win +  JUlio 11
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/R0XyWtSJ/WIN_PLUS_AMARILLO-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win +  JUlio 11
 http://45.172.218.126:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="|CO| Colombia",➾ CO | Win +  JUNIO 30
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/R0XyWtSJ/WIN_PLUS_AMARILLO-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win +  JUNIO 30
 http://181.205.130.194:4000/play/a0ay/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/rm6MWrWx/Win-Sports-M-s2022.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL-20  Nro-2
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/sxD9x39V/WIN-PLUS-BLANCO-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL-20  Nro-2
 http://201.222.44.220:4227/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win Sports + ABRIL 20
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/sxD9x39V/WIN-PLUS-BLANCO-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win Sports + ABRIL 20
 http://201.222.44.220:4227/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports  CORTO JULIO 22
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/sxD9x39V/WIN-PLUS-BLANCO-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win Sports  CORTO JULIO 22
 http://181.78.22.27:8098/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/MKwXy9hQ/WIN-SPORTS-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win Sports OCTUBRE14
+http://152.200.187.238:1010/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/MKwXy9hQ/WIN-SPORTS-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win Sports OCTUBRE14
+http://179.1.201.133:54986/play/a03m/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/MKwXy9hQ/WIN-SPORTS-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win Sports OCTUBRE14
+http://179.1.68.244:7676/play/a073/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/MKwXy9hQ/WIN-SPORTS-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win Sports OCTUBRE14
+http://177.93.37.53:8006/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/MKwXy9hQ/WIN-SPORTS-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win Sports OCTUBRE14
+http://181.119.66.30:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/MKwXy9hQ/WIN-SPORTS-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win Sports OCTUBRE 14
+http://181.204.79.182:8202/play/a026
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/MKwXy9hQ/WIN-SPORTS-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win Sports set-30
+http://181.78.67.178:1010/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/76yywq0Y/WIN-BASIC-AZUL-CE-VU-TV-PLAYER.png"group-title="|CO| Colombia",➾ CO | Win Sports set-30
+http://181.78.67.178:1010/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/76yywq0Y/WIN-BASIC-AZUL-CE-VU-TV-PLAYER.png"group-title="|CO| Colombia",➾ CO | Win Sports set-08
+http://186.148.183.242:5800/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports set-08
 http://186.148.183.242:5800/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports set-08
