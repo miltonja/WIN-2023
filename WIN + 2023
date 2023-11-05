@@ -42,8 +42,6 @@ http://177.234.242.100:50032/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
 http://181.119.66.30:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
-http://181.129.198.235:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
 http://181.205.130.194:4000/play/a0ay/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
 http://181.204.79.182:8202/play/a04m
@@ -75,8 +73,6 @@ http://186.190.231.178:8000/play/a037/index.m3u8
 http://190.217.117.194:8000/play/a0cq/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + OCTUBRE 20
 http://190.217.117.194:8000/play/a09r/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + OCTUBRE 20
-http://190.26.217.123:8000/play/a0wq/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + OCTUBRE 20
 http://190.61.44.122:8000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + JULIO 28
@@ -113,16 +109,6 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/NfB0CLVb/PLUTO-TV-BEINSPORTS-EXTRA.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="TNT SPORTS 1"tvg-name="⚽|TNT SPORTS 1"tvg-logo="https://i.postimg.cc/QNzkPhwS/TNT-SPORTS1.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 1 BRASIL
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS 2"tvg-name="⚽|TNT SPORTS 2"tvg-logo="https://i.postimg.cc/Vv2qbWn2/TNT-SPORTS.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 2 BRASIL
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS 3"tvg-name="⚽|TNT SPORTS 3"tvg-logo="https://i.postimg.cc/2y1d6Kb4/TNT-SPORTS3.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 3 BRASIL
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS 4"tvg-name="⚽|TNT SPORTS 4"tvg-logo="https://i.postimg.cc/G27JbC2L/TNT-SPORTS4.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 4 BRASIL
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS 5"tvg-name="⚽|TNT SPORTS 5"tvg-logo="https://i.postimg.cc/PqMQFZn8/TNT-SPORTS5.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 5 BRASIL
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="BILLARD TV"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/029DytY4/BILLARD-TV.png"group-title="⚽DEPORTES⚽",⚽| BILLARD TV 
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="WORLD BILLARDS TV"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/j21Xqsmd/World-Billiards-logo-svg.png"group-title="⚽DEPORTES⚽",⚽|WORLD BILLARDS TV  
