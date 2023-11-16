@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_SPORTS|| 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_SPORTS|| 4K
+http://190.61.43.118:45000/play/a024
+#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_SPORTS|| 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_SPORTS|| 4K
+http://190.61.43.121:45000/play/a024
+#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_SPORTS|| 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_SPORTS|| 4K
+http://proiptvdigic.com:8080/pandconv3/HTVFuZ5PePNG/197665
+#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_SPORTS || PLUS SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_SPORTS || PLUS SD 
+http://proiptvdigic.com:8080/pandconv3/HTVFuZ5PePNG/197666
+#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_SPORTS || PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_SPORTS || PLUS HD
+http://proiptvdigic.com:8080/pandconv3/HTVFuZ5PePNG/197667
+#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_PREMIUM_PLUS 4K*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_PREMIUM_PLUS 4K*
+http://proiptvdigic.com:8080/pandconv3/HTVFuZ5PePNG/197668
+#EXTINF:-1 tvg-id="" tvg-name="WIN + FIBRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",WIN + FIBRA HD
+http://proiptvdigic.com:8080/pandconv3/HTVFuZ5PePNG/241344
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|001 WIN SPORTS PLUS | NOVIEMBRE 14
 http://190.61.44.122:8000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|001 WIN SPORTS PLUS | NOVIEMBRE 14
