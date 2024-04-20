@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="COL-WinSports + (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (L)(1080)
+http://tv.fuxxionpro.online:8080/live/Ronny/MEDapmGYA2/23129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sp Op2 (CO)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314553137.png" group-title="Colombia",Win Sp Op2 (CO)(R)
+http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/162403
+#EXTINF:-1 tvg-id="" tvg-name="Win Sp + SD (CO)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314553137.png" group-title="Colombia",Win Sp + SD (CO)(R)
+http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/162405
+#EXTINF:-1 tvg-id="" tvg-name="Win Sp + FHD (CO)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314553137.png" group-title="Colombia",Win Sp + FHD (CO)(R)
+http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/162410
+#EXTINF:-1 tvg-id="" tvg-name="Win Sp + ENCODER (CO)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314553137.png" group-title="Colombia",Win Sp + ENCODER (CO)(R)
+http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/162418
+#EXTINF:-1 tvg-id="" tvg-name="Win Sp + * (CO)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314553137.png" group-title="Colombia",Win Sp + * (CO)(R)
+http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/162419
+#EXTINF:-1 tvg-id="" tvg-name="Win Sp + * (CO)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314553137.png" group-title="Colombia",Win Sp + * (CO)(R)
+http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/162420
+#EXTINF:-1 tvg-id="" tvg-name="Win Sp Op3 (CO)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314553137.png" group-title="Colombia",Win Sp Op3 (CO)(R)
+http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/162423
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/Wp7ywq5W/win-sports-Amarillo.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |MARZO-04
 http://45.179.164.30:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUSV+SD
