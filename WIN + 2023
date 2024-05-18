@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports + (L)(1080)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/23129.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-Winsport + (T)(720)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/59855.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports + (X)(720)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/23130.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports + (X)(1080)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/144406.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports + (M)(1080)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/309412.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports (M)(1080)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/3419.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports (L)(720)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/309411.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-Winsports (T)(720)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/59856.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports (L)(SD)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/309413.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports (M)(SD)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/3420.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="COL-WinSports + (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (L)(1080)
 http://tv.fuxxionpro.online:8080/live/Ronny/MEDapmGYA2/23129.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Win Sp Op2 (CO)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314553137.png" group-title="Colombia",Win Sp Op2 (CO)(R)
