@@ -21,7 +21,6 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VIASAT SPORTS TV"tvg-name="⚽|VIASAT SPORTS TV"tvg-logo="https://i.postimg.cc/GpGM6Cbj/GOtv-Boxing-Night.png"group-title="⚽DEPORTES⚽",⚽|DEPORTES USA * |HD| 
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/847a7aa7-9acb-4e2b-8f4e-a2ebaaf8b4ab.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
 http://181.204.79.182:8202/play/a04m
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | SEPT-29
@@ -82,29 +81,29 @@ http://190.60.32.178:8178/play/a07f/index.m3u8
 http://190.60.32.178:8178/play/a088/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/rmFBD9kn/love-nature.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2035 Love Nature HD
 http://190.60.32.178:8178/play/a08l/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2036 CNN
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/pVjjT32c/1200px-Logo-de-CNN-en-Espa-ol-2010-2015-svg.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2036 CNN
 http://190.60.32.178:8178/play/a083/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2037 CableNoticias
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://dateame.co/public/storage/media/20180511_cable_noticias.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2037 CableNoticias
 http://190.60.32.178:8178/play/a09c/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2038 IVC
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11054_7_8175.png.f2f0e3af2676bd8db2daaa6e4a0d1ef0.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2038 IVC
 http://190.60.32.178:8178/play/a085/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2042 Cartoon Network HD
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/HswBHz2V/CARTOON-NETWORK.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2042 Cartoon Network HD
 http://190.60.32.178:8178/play/a08s/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2043 UMC
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/UMC-Logo.svg/1200px-UMC-Logo.svg.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2043 UMC
 http://190.60.32.178:8178/play/a08c/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2047 Paramount HD
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://images.ctfassets.net/6pk8mg3yh2ee/5WgBVohAyXQig3ebsc4WXc/9caf4b42db733664f8809e650e5875a7/Paramount_Global.svg.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2047 Paramount HD
 http://190.60.32.178:8178/play/a08r/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2071 cine familiar
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2071 cine familiar
 http://190.60.32.178:8178/play/a08t/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2072 RUMBA TV
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/MTQMHyMh/Rumba-TV-logo.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2072 RUMBA TV
 http://190.60.32.178:8178/play/a097/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2073 TV AGRO
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/x1Vc2ydp/1200px-TV-Agro-logo-svg.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2073 TV AGRO
 http://190.60.32.178:8178/play/a098/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,3001 A&E HD
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=https://i.postimg.cc/g09VNdkh/2560px-A-E-Network-Logo-svg.png""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,3001 A&E HD
 http://190.60.32.178:8178/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,3002 AXN HD
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/ZYCgkjNV/axn-mediano.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,3002 AXN HD
 http://190.60.32.178:8178/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,3003 ESPN 2 HD
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/MZM2SK9t/espn22.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,3003 ESPN 2 HD
 http://190.60.32.178:8178/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,3005 History Channel HD
 http://190.60.32.178:8178/play/a00n/index.m3u8
@@ -147,3 +146,4 @@ http://190.60.32.178:8178/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,8003 Nat Geo HD
 http://190.60.32.178:8178/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,8004Animal Planet HD
+http://190.60.32.178:8178/play/a07g/index.m3u8
