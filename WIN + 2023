@@ -11,7 +11,7 @@ http://200.59.188.3:8000/play/a00n
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c3b244f859656ba284f02"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/NfB0CLVb/PLUTO-TV-BEINSPORTS-EXTRA.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -67,7 +67,7 @@ http://190.60.32.178:8178/play/a013/index.m3u8
 http://190.60.32.178:8178/play/a017/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/nLL8pNXQ/Espn-3-esp.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2003 ESPN 3 HD
 http://190.60.32.178:8178/play/a015/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=https://i.postimg.cc/VkhNsxmR/TNT-SERIES1.png""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2004 TNT HD
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/VkhNsxmR/TNT-SERIES1.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2004 TNT HD
 http://190.60.32.178:8178/play/a014/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/hjrgpJcB/MI-MUSICA-REGGATON.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2010 REGUETON
 http://190.60.32.178:8178/play/a07a/index.m3u8
@@ -99,7 +99,7 @@ http://190.60.32.178:8178/play/a08t/index.m3u8
 http://190.60.32.178:8178/play/a097/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/x1Vc2ydp/1200px-TV-Agro-logo-svg.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,2073 TV AGRO
 http://190.60.32.178:8178/play/a098/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo=https://i.postimg.cc/g09VNdkh/2560px-A-E-Network-Logo-svg.png""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,3001 A&E HD
+#EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/g09VNdkh/2560px-A-E-Network-Logo-svg.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,3001 A&E HD
 http://190.60.32.178:8178/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="|🏵️"tvg-logo="https://i.postimg.cc/ZYCgkjNV/axn-mediano.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,3002 AXN HD
 http://190.60.32.178:8178/play/a00r/index.m3u8
