@@ -155,3 +155,5 @@ http://181.78.4.186:8000/play/a0fg/index.m3u8
 http://181.78.4.186:8000/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-id="VIDEOS CHISTOSOS"tvg-name="|🏵️VIDEOS CHISTOSOS"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾  ,Videos Chistosos
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RT"tvg-name="|🏵️RT"tvg-logo=""group-title="🏵️ PREMIUM 🏵️",🏵️|➾ RT ESPAÑOL
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
