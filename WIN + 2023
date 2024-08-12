@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="RAKUTEN FAMILY"tvg-name="|🏵️RAKUTEN FAMILY"tvg-logo="https://i.postimg.cc/15Mgv3vt/1024px-Rakuten-TV-familia.png"group-title="🏵️ PREMIUM 🏵️",🏵️|➾ ,RAKUTEN FAMILY HD
+http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |ENERO 27
 http://177.222.108.82:2500/play/a0ip/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
