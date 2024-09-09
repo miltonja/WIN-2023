@@ -35,11 +35,11 @@ http://181.78.67.178:1010/play/a04j/index.m3u8
 http://181.78.67.178:1010/play/a01e/index.m3u8
 #EXTINF:-1 group-title="🏵️ WEBCAMS 🏵️" tvg-logo="https://i.postimg.cc/Jh20px5d/maxresdefault.jpg",🏵️|➾ACUARIUM OFF THE PACIFICHD
 https://outbound-production.explore.org/stream-production-10.m3u8
-#EXTINF:-1 group-title="🏵️ WEBCAMS 🏵️" tvg-logo="https://i.postimg.cc/Jh20px5d/maxresdefault.jpg",🏵️|➾ACUARIUM OFF THE PACIFICHD
+#EXTINF:-1 group-title="🏵️ WEBCAMS 🏵️" tvg-logo="https://i.postimg.cc/D0VNSgB4/explore.png",🏵️|➾ACUARIUM OFF THE PACIFICHD
 https://outbound-production.explore.org/stream-production-12.m3u8
-#EXTINF:-1 group-title="🏵️ WEBCAMS 🏵️" tvg-logo="https://i.postimg.cc/Jh20px5d/maxresdefault.jpg",🏵️|➾ACUARIUM OFF THE PACIFICHD
+#EXTINF:-1 group-title="🏵️ WEBCAMS 🏵️" tvg-logo="https://i.postimg.cc/D0VNSgB4/explore.png",🏵️|➾ACUARIUM OFF THE PACIFICHD
 https://outbound-production.explore.org/stream-production-15.m3u8
-#EXTINF:-1 group-title="🏵️ WEBCAMS 🏵️" tvg-logo="https://i.postimg.cc/Jh20px5d/maxresdefault.jpg",🏵️|➾ACUARIUM OFF THE PACIFICHD
+#EXTINF:-1 group-title="🏵️ WEBCAMS 🏵️" tvg-logo="https://i.postimg.cc/D0VNSgB4/explore.png",🏵️|➾ACUARIUM OFF THE PACIFICHD
 https://outbound-production.explore.org/stream-production-16.m3u8
 #EXTINF:-1 group-title="🏵️ PREMIUM 🏵️" tvg-logo="https://i.postimg.cc/8zz3Gmgz/TELENOVELAS.png",🏵️|➾TELENOVELAS HD
 http://190.60.32.178:8178/play/a02h/index.m3u8
