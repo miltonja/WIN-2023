@@ -1,4 +1,47 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id=""tvg-name="RUN TIME LATINO"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→RUN TIME LATINO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:-1 tvg-id=""tvg-name="RUN TIME FILMS"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→RUN TIME FILMS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-id=""tvg-name="RUN TIME ESPAÑOL"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→RUN TIME ESPAÑOL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:-1 tvg-id=""tvg-name="RUN TIME FAMILIA"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→RUN TIME FAMILIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:-1 tvg-id=""tvg-name="RUN TIME TERROR"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→RUN TIME TERROR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:-1 tvg-id=""tvg-name="RUN TIME CRIME"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→RUN TIME CRIME
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+#EXTINF:-1 tvg-id=""tvg-name="RUN TIME COMEDIA"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→RUN TIME COMEDIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+#EXTINF:-1 tvg-id=""tvg-name="RUN TIME ACCION"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→RUN TIME ACCION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:-1 tvg-id=""tvg-name="CANELA NETWORK"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO✩»→",✩»→CANELA NETWORK
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+#EXTINF:-1 tvg-id=""tvg-name="CANELA CINEMA"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→CANELA CINEMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+#EXTINF:-1 tvg-id=""tvg-name="CANELA MUSIC"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→CANELA MUSIC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 tvg-id=""tvg-name="CANELA NOVELISIMA"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→CANELA NOVELISIMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 tvg-id=""tvg-name="AYM SPORTS"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO✩»→",✩»→AYM SPORTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1 tvg-id=""tvg-name="KANAL D DRAMA"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→KANAL D DRAMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:-1 tvg-id=""tvg-name="CORAZON FAST"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→CORAZON FAST
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:-1 tvg-id=""tvg-name="CLIC FAST"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→CLIC FAST
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+#EXTINF:-1 tvg-id=""tvg-name="CINEMA FAST"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→CINEMA FAST
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:-1 tvg-id=""tvg-name="COMBA TV"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→COMBA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
+#EXTINF:-1 tvg-id=""tvg-name="WPT ESPAÑOL"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→WPT ESPAÑOL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
+#EXTINF:-1 tvg-id=""tvg-name="C4 EN ALERTA"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→C4 EN ALERTA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+#EXTINF:-1 tvg-id=""tvg-name="AZTECA UNO (-1h)"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="←«✩MEXICO 24/7✩»→",✩»→AZTECA UNO (-1h)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 group-title="🏵️ PREMIUM 🏵️" tvg-logo="https://i.postimg.cc/15Mgv3vt/1024px-Rakuten-TV-familia.png",RAKUTEN FAMILY HD
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
