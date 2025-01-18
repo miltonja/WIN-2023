@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=""tvg-name="EL HORMIGUERO"tvg-logo="https://i.postimg.cc/JzMR2SPt/EL-HORMIGUERO.png"group-title="🔅ESPAÑA🔅",🔅|➾El HORMIGUERO
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="EL CLUB DE LA COMEDIA"tvg-logo="https://i.postimg.cc/jjkKC2KJ/EL-CLUB-DE-LA-COMEDIA.png"group-title="🔅ESPAÑA🔅",🔅|➾EL CLUB DE LA COMEDIA
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="EQUIPO INVESTIGACION"tvg-logo="https://i.postimg.cc/gj7NZ9js/EQUIPO-DE-INVESTIGACION-ESP.png"group-title="🔅ESPAÑA🔅",🔅|➾EQUIPO DE INCESTIGACION
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="AQUI NO HAY QUIEN VIVA"tvg-logo="https://i.postimg.cc/Fsj9Ghb2/AQUI-NO-HAY-QUIEN-VIVA.png"group-title="🔅ESPAÑA🔅",🔅|➾AQUI NO HAY QUIEN VIVA
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="IDEAS EN 5 MINUTOS"tvg-logo="https://i.postimg.cc/5ycqLd2g/IDEAS-EN-5-MINUTOS.png"group-title="🔅RELITY🔅",🔅|➾IDEAS EN 5 MINUTOS
+https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
+#EXTINF:-1 tvg-id=""tvg-name="MTV SHORE"tvg-logo="https://i.postimg.cc/2jqkD1K3/ACAPULCO-SHORE-ESP.png"🔅RELITY🔅",🔅|➾MTV Shore | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id=""tvg-name="MTV ACAPULCO SHORE"tvg-logo="https://i.postimg.cc/VNMqpsPh/MTV-SHORE-ESP.png"🔅RELITY🔅",🔅|➾MTV ACAPULCO SHORE |
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id=""tvg-name="MIAMI TV"tvg-logo="https://i.postimg.cc/90n4my14/logo-miami-tv.png"🔅RELITY🔅",🔅|➾MIAMI TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
+#EXTINF:-1 tvg-id=""tvg-name="MTV RIDICULOUSNESS"tvg-logo="https://i.postimg.cc/cLC41tTJ/ridiculousness-esp.png",🔅RELITY🔅"🔅|➾MTV RIDICUlOUSNESS
+http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=66d76556-8d6c-11ed-8742-f7590bf4ff5d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=02491c57-00f8-4b69-a814-92e8e0299ddf&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id=""tvg-name="RUN TIME LATINO"tvg-logo="https://i.postimg.cc/HLhFD8Rf/Runtime-LATINO.png" group-title="←«✩MEXICO 24/7✩»→",✩»→RUN TIME LATINO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 #EXTINF:-1 tvg-id=""tvg-name="RUN TIME FILMS"tvg-logo="https://i.postimg.cc/x1gW54Rj/Runtime-films.png" group-title="←«✩MEXICO 24/7✩»→",✩»→RUN TIME FILMS
