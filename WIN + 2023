@@ -124,8 +124,6 @@ https://unbeaten-tcl.amagi.tv/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="🔅RELITY🔅" tvg-logo="https://i.postimg.cc/5ycqLd2g/IDEAS-EN-5-MINUTOS.png",🔅|➾IDEAS EN 5 MINUTOS
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/90n4my14/logo-miami-tv.png",🔅|➾MIAMI TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/cLC41tTJ/ridiculousness-esp.png",🔅RELITY🔅"🔅|➾MTV RIDICUlOUSNESS
 http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=66d76556-8d6c-11ed-8742-f7590bf4ff5d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=02491c57-00f8-4b69-a814-92e8e0299ddf&userId=&serverSideAds=true
 #EXTINF:-1 group-title="←«✩MEXICO 24/7✩»→" tvg-logo="https://i.postimg.cc/HLhFD8Rf/Runtime-LATINO.png",✩»→RUN TIME LATINO
