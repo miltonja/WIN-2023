@@ -142,16 +142,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTINF:-1 group-title="←«✩MEXICO 24/7✩»→" tvg-logo="https://i.postimg.cc/PqVnXRpV/Runtime-Accion.png",✩»→RUN TIME ACCION
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-#EXTINF:-1 group-title="←«✩MEXICO 24/7✩»→" tvg-logo="https://i.postimg.cc/pLctRLSM/Canela-tv-novelisima.png",✩»→CANELA NOVELISIMA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 group-title="←«✩MEXICO✩»→" tvg-logo="https://i.postimg.cc/G3Fb0rJq/Canela-TV-Aym-sports.png",✩»→AYM SPORTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 group-title="←«✩MEXICO 24/7✩»→" tvg-logo="https://i.postimg.cc/SRLhhLBg/Canela-tv-corazon-fast.png",✩»→CORAZON FAST
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 #EXTINF:-1 group-title="←«✩MEXICO 24/7✩»→" tvg-logo="https://i.postimg.cc/LX1SyFNK/Canela-tv-clic-fast.png",✩»→CLIC FAST
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-#EXTINF:-1 group-title="←«✩MEXICO 24/7✩»→" tvg-logo="https://i.postimg.cc/x8V2hp4k/Canela-tv-comba-tv.png",✩»→COMBA TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
 #EXTINF:-1 group-title="←«✩MEXICO 24/7✩»→" tvg-logo="https://i.postimg.cc/qMQ0RLFK/Canela-tv-wpt.png",✩»→WPT ESPAÑOL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
 #EXTINF:-1 group-title="←«✩MEXICO 24/7✩»→" tvg-logo="https://i.postimg.cc/TPY7q1G6/C4-En-Alerta.png",✩»→C4 EN ALERTA
@@ -192,14 +188,6 @@ http://190.60.32.178:8178/play/a08c/index.m3u8
 http://190.60.32.178:8178/play/a08t/index.m3u8
 #EXTINF:-1 group-title="🏵️ PREMIUM 🏵️" tvg-logo="https://i.postimg.cc/MTQMHyMh/Rumba-TV-logo.png",🏵️|➾2072 RUMBA TV
 http://190.60.32.178:8178/play/a097/index.m3u8
-#EXTINF:-1 group-title="🏵️ PREMIUM 🏵️" tvg-logo="https://i.postimg.cc/d0gvvC0t/ESPN4.png",🏵️|➾ESPN 4
-http://181.78.4.186:8000/play/a0fu/index.m3u8
-#EXTINF:-1 group-title="🏵️ PREMIUM 🏵️" tvg-logo="https://i.postimg.cc/3RW7bMwX/Fox-Sports-2-Logo-2022.png",🏵️|➾Fox Sports 2
-http://181.78.4.186:8000/play/a0fg/index.m3u8
-#EXTINF:-1 group-title="🏵️ PREMIUM 🏵️" tvg-logo="https://i.postimg.cc/tCCDnRSr/Fox-Sports-3.png",🏵️|➾Fox Sports 3
-http://181.78.4.186:8000/play/a0fh/index.m3u8
-#EXTINF:-1 group-title="🏵️ PREMIUM 🏵️" tvg-logo="https://i.postimg.cc/z3YgJ1wx/VIDEOS-CHISTOSOS.png",🏵️|➾Videos Chistosos
-https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="🏵️ PREMIUM 🏵️tvg-logo=" tvg-logo="https://i.postimg.cc/g0VnYypn/RT-America-ESP.png",🏵️|➾ RT ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 group-title="🏵️ PREMIUM 🏵️" tvg-logo="https://i.postimg.cc/kG3s8n0w/RUN-TIME-BLANCO.png",🏵️|➾RUN 2 TIME HD
