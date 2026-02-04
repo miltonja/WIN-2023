@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1tvg-name="💢TELEMUNDO 5"tvg-logo="https://i.postimg.cc/28jc23FZ/NoticiasTelemundo_Especiales_S2020-Logo-White-260x300.png"group-title="💢PREMIUM💢",💢|➾,TELEMUNDO 5
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1tvg-name="💢Deep House District"tvg-logo="https://i.postimg.cc/Wb5Zp2f8/DANCE-TV-ROSA.png"group-title="💢MUSICA💢",💢|➾Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1tvg-name="💢RU.TV HD"tvg-logo="https://i.postimg.cc/7h4p1hpx/logo-ru-tv.png"group-title="💢MUSICA💢",💢|➾RU.TV HD
