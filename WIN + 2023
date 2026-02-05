@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="https://pixvid.org/images/2025/02/07/SportsNet_Ontario.png" group-title="SPORTS", CA Sportsnet Ontario FHD
+https://7pal.short.gy/sptsneton
+
+
+# https://a1xs.vip/6000011
+
+
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_One.png" group-title="SPORTS", CA Sportsnet One FHD
+https://7pal.short.gy/sptsnet1
+
+# https://tvpass.org/live/sportsnet-one/sd
+
+# https://a1xs.vip/6000012
+
+
+#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_World.png" group-title="SPORTS",CA Sportsnet World FHD
+https://a1xs.vip/6000013
+# also good
+# http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/75675
+
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="SPORTS",CA Sportsnet 360
+https://7pal.short.gy/sptsnet360
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="SPORTS",US | Spectrum Sportsnet FHD
+https://a1xs.vip/4000006
+
+# EXTINF:0 , Sky ARTs
+# https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8
 #EXTINF:-1 tvg-name="💢SKY SPORTS FUTBALL" tvg-logo="https://i.postimg.cc/ZRphWGZm/SKY_SPORTS_FOOTBALL.png" group-title="💢PREMIUM💢",💢|➾SKY SPORTS FUTBALL
 https://a1xs.vip/2000003
 #EXTINF:-1 tvg-name="💢TNT SPORTS 1" tvg-logo="https://i.postimg.cc/Vv2qbWn2/TNT_SPORTS.png" group-title="💢PREMIUM💢",💢|➾TNT SPORTS 1
